@@ -1,0 +1,15 @@
+/* Variables */
+:root {
+    --color-principal: #0284c7;
+    --color-secundario: #e0f2fe;
+    --color-texto: #334155;
+    --color-fondo: #fff8f8;
+    --espacio: 20px;
+}
+
+/* Reseteo para evitar problemas de espacio */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
